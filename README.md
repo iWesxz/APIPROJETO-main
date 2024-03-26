@@ -3,7 +3,7 @@
 Nome do Projeto
 
 # RFs(Requisitos Funcionais)
-- [ ] Deve ser possível se cadastrar;
+- [x] Deve ser possível se cadastrar;
 - [ ] Deve ser possível se autenticar;
 - [ ] Deve ser possível obter o perfil de um usuário logado;
 
