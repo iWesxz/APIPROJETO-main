@@ -13,7 +13,7 @@ app.post('/users', async (request, reply) => {
         email: z.string(),
         password: z.string().min(6)
     })
-    // Dados que precisam ser colocados no body
+    // Dados que precisam ser colocados no bodyss
     const {name, email, password} = registerBodySchema.parse(request.body)
     
     // Criptografar senha
